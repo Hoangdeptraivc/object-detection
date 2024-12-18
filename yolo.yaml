@@ -1,0 +1,6 @@
+names:
+  0: car
+nc: 1
+path: C:\Users\vanho\PycharmProjects\pythonProject2\.venv\data\data\working
+train: C:\Users\vanho\PycharmProjects\pythonProject2\.venv\data\data\working\images\train
+val: C:\Users\vanho\PycharmProjects\pythonProject2\.venv\data\data\working\images\val
